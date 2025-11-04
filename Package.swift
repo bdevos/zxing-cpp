@@ -1,10 +1,10 @@
-// swift-tools-version:5.7.1
+// swift-tools-version:6.2
 import PackageDescription
 
 let package = Package(
     name: "ZXingCpp",
     platforms: [
-        .iOS(.v11)
+        .iOS(.v12)
     ],
     products: [
         .library(

@@ -17,3 +17,15 @@ CMakeLists.txt.user
 
 # JetBrain (AndroidStudio, clion)
 .idea
+<<<<<<< Updated upstream
+=======
+
+# Visual Studio
+/.vs
+/CMakeUserPresets.json
+
+# Visual Studio Code
+/.vscode
+
+.DS_Store
+>>>>>>> Stashed changes
